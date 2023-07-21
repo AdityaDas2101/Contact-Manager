@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": "770aaa29-b75d-4205-b534-b941f16c9f7a",
+      "name": "Aditya Das",
+      "email": "adity@gmail.com",
+      "number": "46545231654"
+    },
+    {
+      "id": "594e2744-203c-4139-b28c-7c3bab6c1bd0",
+      "name": "dahkf",
+      "email": "badkksaf4525",
+      "number": "6845236548654"
+    },
+    {
+      "id": "6187c1f5-e473-49bf-b5a1-f7174f25c202",
+      "name": "qwert",
+      "email": "mnvb",
+      "number": "7654123"
+    }
+  ]
+}
